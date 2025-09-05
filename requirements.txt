@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+langchain
+tavily-python
+python-dotenv
+langchain-core
+langchain-mistralai
+langchain-tavily
+langgraph
