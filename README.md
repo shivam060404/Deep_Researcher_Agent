@@ -132,10 +132,6 @@ To add new research capabilities:
 2. Add the tools to the appropriate agents
 3. Update the workflow to incorporate the new capabilities
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) for the workflow orchestration
